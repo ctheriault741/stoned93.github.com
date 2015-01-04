@@ -1,4 +1,3 @@
-stoned93.github.com
-===================
+# The website of Chris Theriault
 
-personal page
+This is a work in progress, learning while doing.
